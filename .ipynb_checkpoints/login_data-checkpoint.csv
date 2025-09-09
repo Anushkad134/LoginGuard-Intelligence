@@ -1,0 +1,9 @@
+user_id,location,device,login_time
+U1,India,Windows,09:15
+U1,India,Windows,09:30
+U1,Russia,iPhone,02:10
+U2,USA,Mac,10:00
+U2,USA,Mac,23:45
+U3,UK,Android,12:00
+U3,UK,Android,12:05
+U3,USA,Windows,03:30
